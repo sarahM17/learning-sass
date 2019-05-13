@@ -1,0 +1,36 @@
+//=== variables:
+$screen-xs: 0px;
+$screen-sm: 576px;
+$screen-md: 768px;
+$screen-lg: 992px;
+$screen-xl: 1200px;
+
+//=== Standard units:
+$stdu-xs: 10px;
+$stdu-sm: 15px;
+$stdu-md: 20px;
+$stdu-lg: 25px;
+$stdu-xl: 30px;
+$std-padding: 15px;
+
+//=== Min-width variables:
+$min-width-xs: 0px;
+$min-width-sm: $screen-sm - 2 * $stdu-sm;
+$min-width-md: $screen-md - 2 * $stdu-md;
+$min-width-lg: $screen-lg - 2 * $stdu-lg;
+$min-width-xl: $screen-xl - 2 * $stdu-xl;
+
+//=== Number values:
+$num-0: 0;
+$num-1: 1;
+$num-2: 2;
+$num-3: 3;
+$num-4: 4;
+$num-5: 5;
+$num-6: 6;
+$num-7: 7;
+$num-8: 8;
+$num-9: 9;
+$num-10: 10;
+$num-11: 11;
+$num-12: 12;

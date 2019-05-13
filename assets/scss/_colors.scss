@@ -1,0 +1,18 @@
+//== color-variable:
+
+$primary-color: #483D8B;
+$secundary-color: #FFF;
+$tertiary-color: #F0CC50;
+$fourth-color: black;
+$fifth-color: #333;
+
+
+//== color-style:
+
+@mixin primary-style {
+    background-color: $primary-color;
+    color: $secundary-color;
+}
+
+
+
